@@ -1,4 +1,3 @@
-# Simulates an LLM-driven agent that is vulnerable to prompt injection inside manifest text.
 import requests
 import pprint
 import json
